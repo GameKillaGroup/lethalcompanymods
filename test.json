@@ -1,8 +1,14 @@
 [
   {
-    "name":"Category 1",
-    "image":"https://pashkasm.github.io/test-json/image/388765031209b7cd075fe33d4e0a143e.png",
-    "description":"The Exotic Heavy Machine Gun, Heir Apparent from Destiny 2. This machine gun acts like a minigun in that it has to be spun up with Mouse 2 before being able to fire. Fully spinning up this weapon will also protect you with an Arc Shield",
-    "url":"https://steamcommunity.com/app/1856090/workshop/"
+    "name":"MoreCompany",
+    "image":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/",
+    "description":"TThis mod is a lobby player count expansion mod. It increases the max player count. The mod is specifically designed for 8 players. Not every UI modification will properly accomodate for above 8 players.",
+    "url":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/"
+  },
+  {
+    "name":"MoreCompany",
+    "image":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/",
+    "description":"TThis mod is a lobby player count expansion mod. It increases the max player count. The mod is specifically designed for 8 players. Not every UI modification will properly accomodate for above 8 players.",
+    "url":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/"
   }
 ]
