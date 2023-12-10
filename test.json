@@ -6,9 +6,51 @@
     "url":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/"
   },
   {
-    "name":"MoreCompany",
-    "image":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/",
-    "description":"TThis mod is a lobby player count expansion mod. It increases the max player count. The mod is specifically designed for 8 players. Not every UI modification will properly accomodate for above 8 players.",
-    "url":"https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/"
+    "name":"BiggerLobby",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/bizzlemip-BiggerLobby-2.4.0.png.128x128_q95.jpg",
+    "description":"The original lobby expansion mod! Now with up to 40 players!",
+    "url":"https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/"
+  },
+  {
+    "name":"HDLethalCompany",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/Sligili-HDLethalCompany-1.5.2.png.128x128_q95.jpg",
+    "description":"Additional graphics settings such as resolution, anti-aliasing, fog quality etc.",
+    "url":"https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/"
+  },
+  {
+    "name":"LateCompany",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/anormaltwig-LateCompany-1.0.4.png.128x128_q95.jpg",
+    "description":"A mod to allow players to join after the game starts.",
+    "url":"https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/"
+  },
+  {
+    "name":"More Suits",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/x753-More_Suits-1.3.3.png.128x128_q95.jpg",
+    "description":"Adds more suits to choose from, and allows you to customize them!",
+    "url":"https://thunderstore.io/c/lethal-company/p/x753/More_Suits/"
+  },
+  {
+    "name":"HullBreaker Company",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/Venterok-HullBreaker_Company-1.3.4.png.128x128_q95.png",
+    "description":"Making it more challenging to work for the company",
+    "url":"https://thunderstore.io/c/lethal-company/p/Venterok/HullBreaker_Company/"
+  },
+  {
+    "name":"ReservedWalkieSlot",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/FlipMods-ReservedWalkieSlot-1.4.4.png.128x128_q95.jpg",
+    "description":"Gives a free, dedicated Walkie slot on the right side of your screen. You can press [X] to activate and speak into the Walkie at anytime.",
+    "url":"https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/"
+  },
+  {
+    "name":"Helmet Cameras",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/RickArg-Helmet_Cameras-2.1.3.png.128x128_q95.png",
+    "description":"For monitoring first person cameras on player's helmets. For best 'Camera Man' experience.",
+    "url":"https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/"
+  },
+  {
+    "name":"ShipLoot",
+    "image":"https://raw.githubusercontent.com/GameKillaGroup/lethalcompanymods/master/image/tinyhoot-ShipLoot-1.0.0.png.128x128_q95.jpg",
+    "description":"Reliably shows the total value of all scrap in your ship.",
+    "url":"https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/"
   }
 ]
